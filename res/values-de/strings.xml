@@ -25,11 +25,11 @@
     <string name="dlg_switch" msgid="6243971420240639064">"Wechseln"</string>
     <string name="device_info_default" msgid="7847265875578739287">"Unbekannt"</string>
     <plurals name="show_dev_countdown" formatted="false" msgid="7201398282729229649">
-      <item quantity="other">In <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> Schritten bist du Entwickler.</item>
-      <item quantity="one">In <xliff:g id="STEP_COUNT_0">%1$d</xliff:g> Schritt bist du Entwickler.</item>
+      <item quantity="other"><xliff:g id="STEP_COUNT_1">%1$d</xliff:g> Schritte um die Entwickleroptionen zu aktivieren</item>
+      <item quantity="one"><xliff:g id="STEP_COUNT_0">%1$d</xliff:g> Schritt um die Entwickleroptionen zu aktivieren</item>
     </plurals>
-    <string name="show_dev_on" msgid="1110711554982716293">"Du bist jetzt Entwickler!"</string>
-    <string name="show_dev_already" msgid="2151632240145446227">"Okay, du bist bereits Entwickler."</string>
+    <string name="show_dev_on" msgid="1110711554982716293">"Die Entwickleroptionen wurden aktiviert"</string>
+    <string name="show_dev_already" msgid="2151632240145446227">"Die Entwickleroptionen sind bereits aktiviert"</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"Drahtlos &amp; Netzwerke"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"Verbindungen"</string>
     <string name="header_category_device" msgid="4544026001618307754">"Gerät"</string>
