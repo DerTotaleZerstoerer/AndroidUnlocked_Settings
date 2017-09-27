@@ -106,7 +106,7 @@ public class FingerprintSettings extends SubSettings {
      */
     protected static final int RESULT_TIMEOUT = RESULT_FIRST_USER + 2;
 
-    private static final long LOCKOUT_DURATION = 30000; // time we have to wait for fp to reset, ms
+    private static final long LOCKOUT_DURATION = 0; // time we have to wait for fp to reset, ms
 
     public static final String KEY_FINGERPRINT_SETTINGS = "fingerprint_settings";
 
